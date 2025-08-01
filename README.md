@@ -20,11 +20,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ganesh-Nimbalkar/Leetcode-Daily/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/rutujamusale/Leetcode-Daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rutujamusale/Leetcode-Daily/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shivnarayan07/Leetcode-Daily/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/rutujamusale/Leetcode-Daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rutujamusale/Leetcode-Daily/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/rutujamusale/Leetcode-Daily/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -39,6 +41,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rutujamusale/Leetcode-Daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rutujamusale/Leetcode-Daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/CharuliShirsath/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivnarayan07/Leetcode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
